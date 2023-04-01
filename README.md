@@ -1,2 +1,1 @@
-# OpenMV
-some project on OpenMVH7Plus
+OpenMV例程
