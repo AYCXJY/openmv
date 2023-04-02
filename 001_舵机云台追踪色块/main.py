@@ -81,3 +81,4 @@ while(True):
 		# 驱动舵机使目标色块处于图像中央
 		pan_servo.angle(pan_servo.angle()-pan_output)
 		tilt_servo.angle(tilt_servo.angle()+tilt_output)
+		
